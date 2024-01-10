@@ -20,3 +20,5 @@ Support Vector Machine with Naive Bayes Features: A model that uses both SVM and
 LSTM Neural Network: A deep learning model that uses recurrent neural networks to capture sequential dependencies in text.
 
 # Results
+![Image Alt Text](Result%20Images/Precision%20Score%20Comparisons.png)
+
